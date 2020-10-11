@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">cpen_m5</string>
+    <string name="hometown_button_caption">Button 1: My Hometown</string>
+    <string name="time_button_caption">Button 2: Server Time</string>
+    <string name="suprise_button_caption">Button 3: Suprise</string>
+    <string name="title_activity_hometown">Map</string>
+</resources>
