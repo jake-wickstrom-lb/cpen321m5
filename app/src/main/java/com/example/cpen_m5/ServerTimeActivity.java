@@ -15,7 +15,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class ServerTimeActivity extends AppCompatActivity {
 
     private Retrofit retrofit = new Retrofit.Builder()
-            .baseUrl("http://10.0.2.2:3000")
+            .baseUrl("https://cpen321m5.herokuapp.com/")
             .addConverterFactory(GsonConverterFactory.create())
             .build();
 
@@ -42,6 +42,5 @@ public class ServerTimeActivity extends AppCompatActivity {
                 serverTimeText.setText("Could not retrieve server time...");
             }
         });
-
     }
 }

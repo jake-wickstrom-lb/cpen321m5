@@ -4,4 +4,17 @@
     <string name="time_button_caption">Button 2: Server Time</string>
     <string name="suprise_button_caption">Button 3: Suprise</string>
     <string name="title_activity_hometown">Map</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Display Preferences -->
+    <string name="display_header">Display</string>
+    <string name="darkmode">Enable Darkmode</string>
 </resources>
